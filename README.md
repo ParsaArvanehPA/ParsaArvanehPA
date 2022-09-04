@@ -8,6 +8,5 @@
 - 🌱 Learning all about **Servers**
 - 💬 Ping me about **design**, **hacking**, **react**, **development**, **design thinking**
 - 📫 Reach me: Parsa.Arvaneh@gmail.com
-- ⚡️ Fun fact: I'm a huge fan of Dota2
 
 -----
