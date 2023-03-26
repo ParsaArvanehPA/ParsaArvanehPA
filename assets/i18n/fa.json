@@ -1,0 +1,124 @@
+{
+    "SideMenu": {
+        "Home": "خانه",
+        "AboutMe": "درباره من",
+        "Skills": "مهارت‌ها",
+        "WorkExperience": "سابقه کار",
+        "ContactMe": "تماس با من",
+        "Collapse": "بستن",
+        "Open": "باز کردن"
+    },
+    "HeroPage": {
+        "Hi": "سلام",
+        "IamParsaArvaneh": "من پارسام",
+        "WebDeveloper": "توسعه دهنده وب",
+        "FrontendDeveloperAndUiUXDesigner": "توسعه دهنده فرانت / طراح محیط کاربری",
+        "Parsa": "پارسا"
+    },
+    "AboutMePage": {
+        "OnceUponATime": "یکی بود یکی نبود...",
+        "AboutMe1": "در سرزمینای دور، یک پسری بود به اسم پارسا. پارسا علاقه زیادی به توسعه فرانت و طراحی داشت.",
+        "AboutMe2": "پارسا همیشه سعی میکرد که بهتر از اون چیزی باشه که ازش توقع میرفت. همکارای پارسا همیشه از روحیه مثبت و شادی که اون داشت لذت میبردن و از کار کردن با اون راضی بودن.",
+        "AboutMe3": "پارسا علاقه زیادی به کتاب‌خوندن، تماشای فیلم و سریال و بازی آنلاین داشت.",
+        "AboutMe4": "پارسا توسعه فرانت و طراحی رو علاقه اصلیش توی زندگیش میدونست و تمام تلاشش رو میکرد که در این دو زمینه پیشرفت کن.",
+        "AboutMe5": "در ادامه مسیر، با تخصص پارسا بیشتر آشنا میشیم"
+    },
+    "SkillsPage": {
+        "Skills": "مهارت‌ها",
+        "Skills1": "پارسا سفر کاری خود را در سال 2017 شروع کرد. او در ابتدا به عنوان یک freelancer مشغول به کار شد. در آن دوران، علاقه اصلی پارسا طراحی و توسعه اپلیکشن‌های موبایل بود.",
+        "Skills2": "در ادامه، او متوجه شد که علاقه اصلیش در توسعه وب میباشد. او همواره تلاش کرد تا به درک عمیقی در مسائل Frontend برسد و پیوسته به دانش پایه‌ای خود در زمینه ساختار زیربنائی وب پرداخت.",
+        "Skills3": "بیشترین علاقه پارسا به فریم‌ورک Angular میباشد و با توجه به موقعیت کاری که تا الان داشته، به درک بالائی در زمینه توسعه Micro frontends رسیده.",
+        "Skills4": "برای شناخت بیشتر پارسا، میتوانید پروفایل <a href='#'>لینکداین</a>‌ش را بررسی کنین.",
+        "Angular": "Angular",
+        "React": "React",
+        "SCSS": "SCSS",
+        "PWA": "PWA",
+        "TypeScript": "TypeScript",
+        "Freelancer": "Freelancer",
+        "YearOfFreelancing": "2017 - 2021",
+        "DescriptionOfFreelancing": "توسعه موبایل - طراحی محیط کاربری - مسئول deploy و devops چند پروژه",
+        "FrontendDeveloper": "Frontend developer",
+        "MohaymenICT": "شرکت مهیمن",
+        "YearOfFrontendDeveloping": "2021 - تا به امروز",
+        "DescriptionForMohaymen": "توسعه‌دهنده وب - پیاده‌سازی کد‌های مرتبط با رسم گراف و انواع نمودار‌های مختلف - آشنائی با مفهوم Micro Frontend",
+        "SkillsWrapper": {
+            "Frameworks": {
+                "Title": "Framework",
+                "Description": {
+                    "Description1": "سابقه کار با فریم‌ورک‌های Angular - React - Svelte - NextJS",
+                    "Description2": "علاقه فراوان بر روی فریم‌ورک Angular",
+                    "Description3": "درک عمیق بر روی Angular"
+                },
+                "Items": {
+                    "Angular": "Angular",
+                    "React": "React",
+                    "Svelte": "Svelte",
+                    "NextJs": "Next.js"
+                }
+            },
+            "MicroFrontend": {
+                "Title": "Micro Frontend",
+                "Description": {
+                    "Description1": "درک و پیاده‌سازی مفهوم Micro Frontend در پروژه صنعتی بزرگ",
+                    "Description2": "آشنائیت با NX و Module Federation"
+                },
+                "Items": {
+                    "NxNarwhale": "Nx Narwhale",
+                    "ModuleFederation": "Module Federation"
+                }
+            },
+            "Mobile": {
+                "Title": "Mobile",
+                "Description": {
+                    "Description1": "برنامه‌سازی قالب موبایل با استفاده از تکنولوژی‌های React native - Ionice - PWA",
+                    "Description2": "ترجیحم بر روی PWA میباشد"
+                },
+                "Items": {
+                    "PWA": "PWA",
+                    "Ionic": "Ionic",
+                    "ReactNative": "React Native"
+                }
+            },
+            "DesignSystems": {
+                "Title": "UI Libraries / Design Systems",
+                "Description": {
+                    "Description1": "آشنائیت و استفاده از چندین کتاب‌خانه معروف UI",
+                    "Description2": "تجربه ساخت wrapper‌های پیچیده برروی المان‌های کتابخانه‌های مذکور"
+                },
+                "Items": {
+                    "NgZorro": "NG-ZORRO",
+                    "AngularMaterial": "Angular Material",
+                    "Kendo": "Kendo",
+                    "Material": "Material",
+                    "Bootstrap": "Bootstrap"
+                }
+            },
+            "DataVisualization": {
+                "Title": "DataVisualization",
+                "Description": {
+                    "Description1": "تجربه ساخت انواع نمودار و گراف با کتابخانه‌های ذکر شده"
+                },
+                "Items": {
+                    "OgmaLinkurious": "Ogma Linkurious",
+                    "HighCharts": "High Charts",
+                    "ECharts": "ECharts",
+                    "AntG6": "Antv G6",
+                    "MapboxGL": "Mapbox GL"
+                }
+            },
+            "UnitTesting": {
+                "Title": "UnitTesting",
+                "Description": {
+                    "Description1": "تجربه مهیا‌سازی بستر تست‌نویسی در پلتفرم انگولار برای چند پروژه در یک workspace",
+                    "Description2": "ایجاد کانفیگ مرتبط برای جداسازی اجرای تست هر سامانه در آنالیتیکس و گیت",
+                    "Description3": "نوشتن Unit Test با کارما در انگولار - نوشتن تست مسابقه با استفاده از Jest و Cypress"
+                },
+                "Items": {
+                    "Karma": "Karma",
+                    "Cypress": "Cypress",
+                    "Jest": "Jest"
+                }
+            }
+        }
+    }
+}

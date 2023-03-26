@@ -1,0 +1,16 @@
+{
+    "SideMenu": {
+        "Home": "home",
+        "AboutMe": "about me",
+        "Skills": "skills",
+        "WorkExperience": "work experience",
+        "ContactMe": "contact me"
+    },
+    "HeroPage": {
+        "Hi": "Hi",
+        "IamParsaArvaneh": "I'am Parsa",
+        "WebDeveloper": "Web developer",
+        "FrontendDeveloperAndUiUXDesigner": "Frontend developer / ui uxdesigner",
+        "Parsa": "Parsa"
+    }
+}
