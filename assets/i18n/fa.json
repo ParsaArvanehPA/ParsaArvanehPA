@@ -3,17 +3,18 @@
         "Home": "خانه",
         "AboutMe": "درباره من",
         "Skills": "مهارت‌ها",
-        "WorkExperience": "سابقه کار",
         "ContactMe": "تماس با من",
         "Collapse": "بستن",
-        "Open": "باز کردن"
+        "Open": "باز کردن",
+        "ChangeLanguage": "تغییر زبان",
+        "DownloadResume": "رزومه"
     },
     "HeroPage": {
         "Hi": "سلام",
-        "IamParsaArvaneh": "من پارسام",
+        "IamParsaArvaneh": "من پارسا اروانه هستم",
         "WebDeveloper": "توسعه دهنده وب",
         "FrontendDeveloperAndUiUXDesigner": "توسعه دهنده فرانت / طراح محیط کاربری",
-        "Parsa": "پارسا"
+        "Parsa": "پارسا اروانه"
     },
     "AboutMePage": {
         "OnceUponATime": "یکی بود یکی نبود...",
@@ -25,21 +26,21 @@
     },
     "SkillsPage": {
         "Skills": "مهارت‌ها",
-        "Skills1": "پارسا سفر کاری خود را در سال 2017 شروع کرد. او در ابتدا به عنوان یک freelancer مشغول به کار شد. در آن دوران، علاقه اصلی پارسا طراحی و توسعه اپلیکشن‌های موبایل بود.",
+        "Skills1": "پارسا سفر کاری خود را در سال 1399 شروع کرد. او در ابتدا به عنوان یک freelancer مشغول به کار شد. در آن دوران، علاقه اصلی پارسا طراحی و توسعه اپلیکشن‌های موبایل بود.",
         "Skills2": "در ادامه، او متوجه شد که علاقه اصلیش در توسعه وب میباشد. او همواره تلاش کرد تا به درک عمیقی در مسائل Frontend برسد و پیوسته به دانش پایه‌ای خود در زمینه ساختار زیربنائی وب پرداخت.",
         "Skills3": "بیشترین علاقه پارسا به فریم‌ورک Angular میباشد و با توجه به موقعیت کاری که تا الان داشته، به درک بالائی در زمینه توسعه Micro frontends رسیده.",
-        "Skills4": "برای شناخت بیشتر پارسا، میتوانید پروفایل <a href='#'>لینکداین</a>‌ش را بررسی کنین.",
+        "Skills4": "برای شناخت بیشتر پارسا، میتوانید پروفایل <a href='https://www.linkedin.com/in/parsa-arvaneh-450325260/' target='_blank'>لینکداین</a>‌ش را بررسی کنین.",
         "Angular": "Angular",
         "React": "React",
         "SCSS": "SCSS",
         "PWA": "PWA",
         "TypeScript": "TypeScript",
         "Freelancer": "Freelancer",
-        "YearOfFreelancing": "2017 - 2021",
+        "YearOfFreelancing": "1398 - 1400",
         "DescriptionOfFreelancing": "توسعه موبایل - طراحی محیط کاربری - مسئول deploy و devops چند پروژه",
         "FrontendDeveloper": "Frontend developer",
         "MohaymenICT": "شرکت مهیمن",
-        "YearOfFrontendDeveloping": "2021 - تا به امروز",
+        "YearOfFrontendDeveloping": "1400 - تا به امروز",
         "DescriptionForMohaymen": "توسعه‌دهنده وب - پیاده‌سازی کد‌های مرتبط با رسم گراف و انواع نمودار‌های مختلف - آشنائی با مفهوم Micro Frontend",
         "SkillsWrapper": {
             "Frameworks": {
@@ -70,8 +71,8 @@
             "Mobile": {
                 "Title": "Mobile",
                 "Description": {
-                    "Description1": "برنامه‌سازی قالب موبایل با استفاده از تکنولوژی‌های React native - Ionice - PWA",
-                    "Description2": "ترجیحم بر روی PWA میباشد"
+                    "Description1": "برنامه‌نویسی موبایل با استفاده از تکنولوژی‌های React native - Ionic - PWA",
+                    "Description2": "تسلط بالا برروی PWA"
                 },
                 "Items": {
                     "PWA": "PWA",
@@ -120,5 +121,33 @@
                 }
             }
         }
+    },
+    "ContactMePage": {
+        "Github": "Github",
+        "StackOverflow": "Stack Overflow",
+        "Email": "Parsa.Arvaneh@gmail.com",
+        "LinkedIn": "LinkedIn",
+        "PhoneNumber": "(+98) 921 264 4648",
+        "Address": "ایران، تهران، تهران"
+    },
+    "FancyTags": {
+        "HtmlStart": "html",
+        "BodyStart": "body",
+        "AppSkillsExperienceBoxStart": "app-skills-experience-box",
+        "PStart": "p",
+        "H2Start": "h2",
+        "FigureStart": "figure",
+        "H1Start": "h1",
+        "AppContactBoxStart": "app-contact-box",
+        "SpanStart": "span",
+        "HtmlEnd": "html/",
+        "BodyEnd": "body/",
+        "AppSkillsExperienceBoxEnd": "app-skills-experience-box/",
+        "PEnd": "p/",
+        "H2End": "h2/",
+        "FigureEnd": "figure/",
+        "H1End": "h1/",
+        "AppContactBoxEnd": "app-contact-box/",
+        "SpanEnd": "span/"
     }
 }

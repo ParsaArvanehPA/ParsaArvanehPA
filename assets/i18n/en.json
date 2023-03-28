@@ -1,16 +1,153 @@
 {
     "SideMenu": {
-        "Home": "home",
-        "AboutMe": "about me",
-        "Skills": "skills",
-        "WorkExperience": "work experience",
-        "ContactMe": "contact me"
+        "Home": "Home",
+        "AboutMe": "About me",
+        "Skills": "Skills",
+        "ContactMe": "Contact me",
+        "Collapse": "Collapse",
+        "Open": "Open",
+        "ChangeLanguage": "Change language",
+        "DownloadResume": "Resume"
     },
     "HeroPage": {
         "Hi": "Hi",
-        "IamParsaArvaneh": "I'am Parsa",
+        "IamParsaArvaneh": "I'm Parsa Arvaneh",
         "WebDeveloper": "Web developer",
-        "FrontendDeveloperAndUiUXDesigner": "Frontend developer / ui uxdesigner",
-        "Parsa": "Parsa"
+        "FrontendDeveloperAndUiUXDesigner": "Frontend developer and ui ux designer",
+        "Parsa": "Parsa Arvaneh"
+    },
+    "AboutMePage": {
+        "OnceUponATime": "Once upon atime",
+        "AboutMe1": "In a faraway land, there was a boy named Parsa. Parsa was very interested in front development and design.",
+        "AboutMe2": "Parsa always tried to be better than what was expected of him. Parsa's colleagues always enjoyed his positive and happy spirit and were satisfied to work with him.",
+        "AboutMe3": "Parsa was very fond of reading books, watching movies and series, and playing online games.",
+        "AboutMe4": "Parsa knew front development and design as his main interest in his life and he tried his best to progress in these two fields.",
+        "AboutMe5": "Along the way, we will learn more about Parsa's expertise"
+    },
+    "SkillsPage": {
+        "Skills": "Skills",
+        "Skills1": "Parsa started his business journey in 2017. He initially worked as a freelancer. At that time, Parsa's main interest was designing and developing mobile applications.",
+        "Skills2": "Later, he realized that his main interest was in web development. He always strived to gain a deep understanding of Frontend issues and constantly honed his basic knowledge of the web's underlying structure.",
+        "Skills3": "Parsa is most interested in the Angular framework and according to the work position he has had so far, he has a high understanding in the field of Micro frontends development.",
+        "Skills4": "To know more about Parsa, you can check his <a href='https://www.linkedin.com/in/parsa-arvaneh-450325260/' target='_blank'>LinkedIn</a> profile.",
+        "Angular": "Angular",
+        "React": "React",
+        "SCSS": "SCSS",
+        "PWA": "PWA",
+        "TypeScript": "TypeScript",
+        "Freelancer": "Freelancer",
+        "YearOfFreelancing": "2019 - 2021",
+        "DescriptionOfFreelancing": "Mobile development - user interface design - responsible for deploy and devops of several projects",
+        "FrontendDeveloper": "Frontend developer",
+        "MohaymenICT": "Mohaymen ICT",
+        "YearOfFrontendDeveloping": "2021 - present",
+        "DescriptionForMohaymen": "Web developer - Implementation of codes related to drawing graphs and different types of graphs - Getting to know the concept of Micro Frontend",
+        "SkillsWrapper": {
+            "Frameworks": {
+                "Title": "Framework",
+                "Description": {
+                    "Description1": "Experience with Angular - React - Svelte - NextJS frameworks",
+                    "Description2": "Strong interest in Angular framework",
+                    "Description3": "Deep understanding on Angular"
+                },
+                "Items": {
+                    "Angular": "Angular",
+                    "React": "React",
+                    "Svelte": "Svelte",
+                    "NextJs": "Next.js"
+                }
+            },
+            "MicroFrontend": {
+                "Title": "Micro Frontend",
+                "Description": {
+                    "Description1": "Understanding and implementing the Micro Frontend concept in a large industrial project",
+                    "Description2": "Familiarity with NX and Module Federation"
+                },
+                "Items": {
+                    "NxNarwhale": "Nx Narwhale",
+                    "ModuleFederation": "Module Federation"
+                }
+            },
+            "Mobile": {
+                "Title": "Mobile",
+                "Description": {
+                    "Description1": "Mobile programming using React native - Ionic - PWA technologies",
+                    "Description2": "High PWA mastery"
+                },
+                "Items": {
+                    "PWA": "PWA",
+                    "Ionic": "Ionic",
+                    "ReactNative": "React Native"
+                }
+            },
+            "DesignSystems": {
+                "Title": "UI Libraries / Design Systems",
+                "Description": {
+                    "Description1": "Familiarity with and use of several popular UI libraries",
+                    "Description2": "The experience of making complex wrappers on the elements of the mentioned libraries"
+                },
+                "Items": {
+                    "NgZorro": "NG-ZORRO",
+                    "AngularMaterial": "Angular Material",
+                    "Kendo": "Kendo",
+                    "Material": "Material",
+                    "Bootstrap": "Bootstrap"
+                }
+            },
+            "DataVisualization": {
+                "Title": "DataVisualization",
+                "Description": {
+                    "Description1": "The experience of making all kinds of charts and graphs with the mentioned libraries"
+                },
+                "Items": {
+                    "OgmaLinkurious": "Ogma Linkurious",
+                    "HighCharts": "High Charts",
+                    "ECharts": "ECharts",
+                    "AntG6": "Antv G6",
+                    "MapboxGL": "Mapbox GL"
+                }
+            },
+            "UnitTesting": {
+                "Title": "UnitTesting",
+                "Description": {
+                    "Description1": "The experience of preparing the test writing platform in the Angular platform for several projects in one workspace",
+                    "Description2": "Creating the relevant configuration to separate the test execution of each system in Analytics and Git",
+                    "Description3": "Writing Unit Tests with Karma in Angular - Writing Unit Tests using Jest and Cypress"
+                },
+                "Items": {
+                    "Karma": "Karma",
+                    "Cypress": "Cypress",
+                    "Jest": "Jest"
+                }
+            }
+        }
+    },
+    "ContactMePage": {
+        "Github": "Github",
+        "StackOverflow": "Stack Overflow",
+        "Email": "Parsa.Arvaneh@gmail.com",
+        "LinkedIn": "LinkedIn",
+        "PhoneNumber": "(+98) 921 264 4648",
+        "Address": "Iran, Tehran, Tehran"
+    },
+    "FancyTags": {
+        "HtmlStart": "html",
+        "BodyStart": "body",
+        "AppSkillsExperienceBoxStart": "app-skills-experience-box",
+        "PStart": "p",
+        "H2Start": "h2",
+        "FigureStart": "figure",
+        "H1Start": "h1",
+        "AppContactBoxStart": "app-contact-box",
+        "SpanStart": "span",
+        "HtmlEnd": "/html",
+        "BodyEnd": "/body",
+        "AppSkillsExperienceBoxEnd": "/app-skills-experience-box",
+        "PEnd": "/p",
+        "H2End": "/h2",
+        "FigureEnd": "/figure",
+        "H1End": "/h1",
+        "AppContactBoxEnd": "/app-contact-box",
+        "SpanEnd": "/span"
     }
 }
