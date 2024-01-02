@@ -41,8 +41,12 @@
         "DescriptionOfFreelancing": "توسعه موبایل - طراحی محیط کاربری - مسئول deploy و devops چند پروژه",
         "FrontendDeveloper": "Frontend developer",
         "MohaymenICT": "شرکت مهیمن",
-        "YearOfFrontendDeveloping": "1400 - تا به امروز",
+        "YearOfFrontendDeveloping": "1400 -1402",
         "DescriptionForMohaymen": "توسعه‌دهنده وب - پیاده‌سازی کد‌های مرتبط با رسم گراف و انواع نمودار‌های مختلف - آشنائی با مفهوم Micro Frontend",
+        "FrontendEngineer": "Frontend engineer",
+        "MoallemInsurance": "شرکت بیمه معلم",
+        "MoallemInsuranceYear": "1402 - تا به امروز",
+        "MoallemInsuranceDescription": "Angular - Micro Frontend - Serverside rendering - PWA",
         "SkillsWrapper": {
             "Frameworks": {
                 "Title": "Framework",
@@ -128,7 +132,7 @@
         "StackOverflow": "Stack Overflow",
         "Email": "Parsa.Arvaneh@gmail.com",
         "LinkedIn": "LinkedIn",
-        "PhoneNumber": "(+98) 921 264 4648",
+        "PhoneNumber": "(+98) 905 264 4648",
         "Address": "ایران، تهران، تهران"
     },
     "FancyTags": {

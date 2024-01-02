@@ -41,8 +41,12 @@
         "DescriptionOfFreelancing": "Mobile development - user interface design - responsible for deploy and devops of several projects",
         "FrontendDeveloper": "Frontend developer",
         "MohaymenICT": "Mohaymen ICT",
-        "YearOfFrontendDeveloping": "2021 - present",
+        "YearOfFrontendDeveloping": "2021 - 2023",
         "DescriptionForMohaymen": "Web developer - Implementation of codes related to drawing graphs and different types of graphs - Getting to know the concept of Micro Frontend",
+        "FrontendEngineer": "Frontend engineer",
+        "MoallemInsurance": "Moallem Insurance",
+        "MoallemInsuranceYear": "2023 - present",
+        "MoallemInsuranceDescription": "Angular - Micro Frontend - Serverside rendering - PWA",
         "SkillsWrapper": {
             "Frameworks": {
                 "Title": "Framework",
@@ -128,7 +132,7 @@
         "StackOverflow": "Stack Overflow",
         "Email": "Parsa.Arvaneh@gmail.com",
         "LinkedIn": "LinkedIn",
-        "PhoneNumber": "(+98) 921 264 4648",
+        "PhoneNumber": "(+98) 905 264 4648",
         "Address": "Iran, Tehran, Tehran"
     },
     "FancyTags": {
