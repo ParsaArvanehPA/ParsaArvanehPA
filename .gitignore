@@ -187,6 +187,8 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
+.node_modules/
+
 # Azure Toolkit for IntelliJ plugin
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
@@ -243,6 +245,8 @@ fabric.properties
 ### WebStorm+all Patch ###
 # Ignore everything but code style settings and run configurations
 # that are supposed to be shared within teams.
+
+./node_modules
 
 
 
