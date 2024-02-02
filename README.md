@@ -12,10 +12,10 @@ I am also passionate about teaching and learning Angular. I have been sharing my
     <li>👨🏻‍💻 I'm currently working on
         <ul>
             <li>
-                <a target="_blank" href="https://www.linkedin.com/company/moalleminsurance/mycompany/">Moallem Insurance Company </a>🏢
+                <a target="_blank" href="https://www.linkedin.com/company/moalleminsurance/mycompany/">Moallem Insurance Company</a> 🏢
             </li>
             <li>
-                <a target="_blank" href="https://github.com/NG-ZORRO/ng-zorro-antd">Ng-zorro UI library </a>💖
+                <a target="_blank" href="https://github.com/NG-ZORRO/ng-zorro-antd">Ng-zorro UI library</a> 💖
             </li>
             <li>
                 <a target="_blank" href="https://github.com/Erdheim-UI">Erdheim-UI</a>, my own UI organization focusing on UI utilities (coming soon) 👀
@@ -34,10 +34,10 @@ I am also passionate about teaching and learning Angular. I have been sharing my
     <li>📫 How to reach me:
         <ul>
             <li>
-                <a target="_blank" href="mailto:parsa.arvaneh@gmail.com">Parsa.Arvaneh@gmail.com </a>📧
+                <a target="_blank" href="mailto:parsa.arvaneh@gmail.com">Parsa.Arvaneh@gmail.com</a> 📧
             </li>
             <li>
-                <a target="_blank" href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio </a>🕸️
+                <a target="_blank" href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio</a> 🕸️
             </li>
             <li>
                 <a target="_blank" href="https://www.linkedin.com/in/parsa-arvaneh/">LinkedIn</a>
