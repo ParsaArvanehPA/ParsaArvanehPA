@@ -188,6 +188,7 @@ fabric.properties
 .idea/codestream.xml
 
 .node_modules/
+node_modules/
 
 # Azure Toolkit for IntelliJ plugin
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
