@@ -5,7 +5,7 @@
 I am a front-end engineer with a focus on Angular and Typescript, passionate about web knowledge, UI/UX design and Open Source.
 Currently, I work as a Senior Engineer at Moallem Insurance Company, one of the largest insurance companies in Iran, where I use Angular and Nx Narwhal to handle several Micro-frontends.
 
-I started my open source contribution journey with Ng-zorro, a UI library for Angular that is based on the Ant design system. Ng-zorro is one of the largest UI libraries for Angular, with more than 9K stars on Github. I am proud to be the No 5 contributor of this amazing library.
+I started my open source contribution journey with Ng-zorro, a UI library for Angular that is based on the Ant design system. Ng-zorro is one of the largest UI libraries for Angular, with more than 9K stars on GitHub. I am proud to be the No 5 contributor of this amazing library.
 I am also passionate about teaching and learning Angular. I have been sharing my knowledge as a mentor in Star Academy, an online platform for learning web development. I enjoy creating complex designs with just CSS, and I have been a regular participant in css battleground, a website for showcasing CSS skills and creativity.
 
 <ul>
