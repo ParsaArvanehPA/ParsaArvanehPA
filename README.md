@@ -37,7 +37,7 @@ I am also passionate about teaching and learning Angular. I have been sharing my
                 <a target="_blank" href="mailto:parsa.arvaneh@gmail.com">Parsa.Arvaneh@gmail.com </a>📧
             </li>
             <li>
-                <a target="_blank" href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio 🕸️</a>
+                <a target="_blank" href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio </a>🕸️
             </li>
             <li>
                 <a target="_blank" href="https://www.linkedin.com/in/parsa-arvaneh/">LinkedIn</a>
