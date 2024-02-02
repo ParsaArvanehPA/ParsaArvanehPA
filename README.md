@@ -1,6 +1,6 @@
-<div class="readme-wrapper">
-    <a class="typing-tag" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Parsa" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Parsa" alt="Typing SVG" /></a>
+</p>
 
 I am a front-end engineer with a focus on Angular and Typescript, passionate about web knowledge, UI/UX design and Open Source.
 Currently, I work as a Senior Engineer at Moallem Insurance Company, one of the largest insurance companies in Iran, where I use Angular and Nx Narwhal to handle several Micro-frontends.
@@ -12,13 +12,13 @@ I am also passionate about teaching and learning Angular. I have been sharing my
     <li>👨🏻‍💻 I'm currently working on
         <ul>
             <li>
-                <a href="https://www.linkedin.com/company/moalleminsurance/mycompany/">Moallem Insurance Company 🏢</a>
+                <a target="_blank" href="https://www.linkedin.com/company/moalleminsurance/mycompany/">Moallem Insurance Company </a>🏢
             </li>
             <li>
-                <a href="https://github.com/NG-ZORRO/ng-zorro-antd">Ng-zorro UI library 💖</a>
+                <a target="_blank" href="https://github.com/NG-ZORRO/ng-zorro-antd">Ng-zorro UI library </a>💖
             </li>
             <li>
-                <a href="https://github.com/Erdheim-UI">Erdheim-UI</a>, my own UI organization focusing on UI utilities (coming soon) 👀
+                <a target="_blank" href="https://github.com/Erdheim-UI">Erdheim-UI</a>, my own UI organization focusing on UI utilities (coming soon) 👀
             </li>
         </ul>
     </li>
@@ -34,18 +34,18 @@ I am also passionate about teaching and learning Angular. I have been sharing my
     <li>📫 How to reach me:
         <ul>
             <li>
-                <a href="mailto:parsa.arvaneh@gmail.com">Parsa.Arvaneh@gmail.com 📧</a>
+                <a target="_blank" href="mailto:parsa.arvaneh@gmail.com">Parsa.Arvaneh@gmail.com </a>📧
             </li>
             <li>
-                <a href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio 🕸️</a>
+                <a target="_blank" href="https://parsaarvanehpa.github.io/ParsaArvanehPA/">My portfolio 🕸️</a>
             </li>
             <li>
-                <a href="https://www.linkedin.com/in/parsa-arvaneh/">LinkedIn</a>
+                <a target="_blank" href="https://www.linkedin.com/in/parsa-arvaneh/">LinkedIn</a>
             </li>
         </ul>
     </li>
     <br/>
-    <li>⚔️ A regular at <a href="https://cssbattle.dev/player/parsaarvanehpa">CSS battlegrounds</a></li>
+    <li>⚔️ A regular at <a target="_blank" href="https://cssbattle.dev/player/parsaarvanehpa">CSS battlegrounds</a></li>
     <br/>
     <li>🥸 Pronouns: He/His</li>
     <br/>
@@ -53,14 +53,3 @@ I am also passionate about teaching and learning Angular. I have been sharing my
 </ul>
 
 ---
-
-<style>
-    .readme-wrapper {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .typing-tag {
-        align-self: center;
-    }
-</style>
