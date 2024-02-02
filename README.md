@@ -49,7 +49,13 @@ I am also passionate about teaching and learning Angular. I have been sharing my
     <br/>
     <li>🥸 Pronouns: He/His</li>
     <br/>
-    <li>🕯️ A little insight on my DarkSoul<span style="font-size: .5rem;">™️</span>: Huge fan of Elden Ring and FromSoftware games</li>
+    <li>🕯️ A little insight on my DarkSoul<font size="1">™️</font>: Huge fan of Elden Ring and FromSoftware games</li>
 </ul>
 
 ---
+<p align="center">
+  <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=parsaArvanehPA&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="45%" height="190px">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="stat" src="https://github-readme-streak-stats.herokuapp.com/?user=parsaArvanehPA&theme=tokyonight&hide_border=false" width="45%" height="190px">
+</p>
+
