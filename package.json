@@ -1,0 +1,14 @@
+{
+    "name": "parsaarvanehpa",
+    "version": "1.0.0",
+    "description": "<h2 class=\"greeting-tag\">👋 Hi there! I 'm Parsa</h2>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prettier": "^3.2.4"
+    }
+}
